@@ -1,0 +1,1 @@
+  2020-07-24 12:28:30 AM EDT: Starting composition “price tag”.  Output To: /Users/rohan/Desktop/price tag.mov    2020-07-24 12:28:33 AM EDT: Finished composition “price tag”.  Total Time Elapsed: 3 SecondsLog closed on 2020-07-24 at 12:28:33 AM EDT

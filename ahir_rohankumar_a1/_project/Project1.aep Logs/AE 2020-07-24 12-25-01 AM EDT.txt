@@ -1,0 +1,1 @@
+  2020-07-24 12:25:01 AM EDT: Starting composition “Comp 1”.  Output To: /Users/rohan/Desktop/digital signage.mov    2020-07-24 12:25:20 AM EDT: Finished composition “Comp 1”.  Total Time Elapsed: 19 SecondsLog closed on 2020-07-24 at 12:25:20 AM EDT
